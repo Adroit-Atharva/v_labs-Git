@@ -1,3 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
 h1{
-	style= (color:black);
+	color: aqua;
+	text-align: center;
+}
+
+.background{
+	background-image: url('istockphoto-1304064507-170667a.jpg');
+	background-size: cover;
+	background-blend-mode: darken;
 }
