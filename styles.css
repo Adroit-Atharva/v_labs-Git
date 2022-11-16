@@ -1,15 +1,15 @@
-*{
+* {
 	margin: 0;
 	padding: 0;
 }
 
-h1{
+h1 {
 	color: aqua;
 	text-align: center;
 }
 
-.background{
-	background-image: url('istockphoto-1304064507-170667a.jpg');
+.background {
+	background-image: url('assets/istockphoto-1304064507-170667a.jpg');
 	background-size: cover;
 	background-blend-mode: darken;
 }
